@@ -17,7 +17,7 @@
 
 <div align="center" style="background: #f0f6fc; padding: 15px; border-radius: 10px; border: 1px solid #d0d7de;">
 
-**`https://raw.githubusercontent.com/نام‌کاربری/نام‌مخزن/main/sub.txt`**
+**`https://raw.githubusercontent.com/editora0/Netli-VPN/main/Sub.txt`**
 
 </div>
 
